@@ -9,5 +9,19 @@
         "name": "Oleg Vakhromov, MA, CFA, CAMS"
     },
     "items": [
+        {
+            "id": "https://vakhromov-com.vercel.app/nft-sound-through-image.html",
+            "url": "https://vakhromov-com.vercel.app/nft-sound-through-image.html",
+            "title": "NFT – Sound Through Image",
+            "summary": "A heartbeat and silence, yin and yang, light and darkness, life and death—the essence of life lies in the eternal struggle of opposites. “Heart” and “Beat” are two sides of the same coin. By themselves, they are nothing more than two images, indistinguishable from trillions&hellip;",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://vakhromov-com.vercel.app/media/posts/1/NFT-Cover.png\" alt=\"\" width=\"600\" height=\"400\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://vakhromov-com.vercel.app/media/posts/1/responsive/NFT-Cover-xs.png 300w ,https://vakhromov-com.vercel.app/media/posts/1/responsive/NFT-Cover-sm.png 480w ,https://vakhromov-com.vercel.app/media/posts/1/responsive/NFT-Cover-md.png 768w ,https://vakhromov-com.vercel.app/media/posts/1/responsive/NFT-Cover-lg.png 1024w ,https://vakhromov-com.vercel.app/media/posts/1/responsive/NFT-Cover-xl.png 1360w ,https://vakhromov-com.vercel.app/media/posts/1/responsive/NFT-Cover-2xl.png 1600w\"></figure>\n<p>A heartbeat and silence, yin and yang, light and darkness, life and death—the essence of life lies in the eternal struggle of opposites. “Heart” and “Beat” are two sides of the same coin. By themselves, they are nothing more than two images, indistinguishable from trillions of others. But together, they unlock the sound of a beating heart hidden within.</p>\n<p>In my recent project, I explored the fascinating intersection of sound and image by creating a unique puzzle—a visual and auditory artifact that could only be unlocked through the pairing of a matching image. To add a layer of digital innovation, I realized this concept as a pair of NFTs (Non-Fungible Tokens).</p>\n<h4 class=\"wp-block-heading\">What Are NFTs?</h4>\n<p>NFTs are unique digital assets stored on a blockchain, representing ownership of a specific item, such as art, music, or collectibles. Unlike cryptocurrencies like Bitcoin, NFTs are non-fungible, meaning each token is distinct and cannot be exchanged on a one-to-one basis. Their uniqueness and traceable ownership make NFTs a revolutionary medium for creators and collectors.</p>",
+            "author": {
+                "name": "Oleg Vakhromov, MA, CFA, CAMS"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-02-13T18:56:13+02:00",
+            "date_modified": "2026-02-13T18:56:13+02:00"
+        }
     ]
 }
