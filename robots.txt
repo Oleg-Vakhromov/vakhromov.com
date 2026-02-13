@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Oleg-Vakhromov.github.io/vakhromov.com/sitemap.xml
