@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "vakhromov.com",
     "description": "",
-    "home_page_url": "https://Oleg-Vakhromov.github.io/vakhromov.com",
-    "feed_url": "https://Oleg-Vakhromov.github.io/vakhromov.com/feed.json",
+    "home_page_url": "https://vakhromov-com.vercel.app",
+    "feed_url": "https://vakhromov-com.vercel.app/feed.json",
     "user_comment": "",
     "author": {
         "name": "Oleg Vakhromov, MA, CFA, CAMS"
