@@ -3,33 +3,124 @@
     <title>vakhromov.com</title>
     <link href="https://vakhromov-com.vercel.app/feed.xml" rel="self" />
     <link href="https://vakhromov-com.vercel.app" />
-    <updated>2026-02-13T18:56:13+02:00</updated>
+    <updated>2026-02-14T19:36:58+02:00</updated>
     <author>
-        <name>Oleg Vakhromov, MA, CFA, CAMS</name>
+        <name>Oleg Vakhromov, CFA, CAMS</name>
     </author>
     <id>https://vakhromov-com.vercel.app</id>
 
     <entry>
-        <title>NFT – Sound Through Image</title>
+        <title>Education</title>
         <author>
-            <name>Oleg Vakhromov, MA, CFA, CAMS</name>
+            <name>Oleg Vakhromov, CFA, CAMS</name>
         </author>
-        <link href="https://vakhromov-com.vercel.app/nft-sound-through-image.html"/>
-        <id>https://vakhromov-com.vercel.app/nft-sound-through-image.html</id>
+        <link href="https://vakhromov-com.vercel.app/education.html"/>
+        <id>https://vakhromov-com.vercel.app/education.html</id>
+        <media:content url="https://vakhromov-com.vercel.app/media/posts/2/education-image.png" medium="image" />
+            <category term="About me"/>
 
-        <updated>2026-02-13T18:56:13+02:00</updated>
+        <updated>2026-02-14T14:41:06+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                    A heartbeat and silence, yin and yang, light and darkness, life and death—the essence of life lies in the eternal struggle of opposites. “Heart” and “Beat” are two sides of the same coin. By themselves, they are nothing more than two images, indistinguishable from trillions&hellip;
+                        <img src="https://vakhromov-com.vercel.app/media/posts/2/education-image.png" alt="" />
+                    Ryerson University, Canada 2006 - 2008 Deggendorf Institute of Technology 2001 - 2022 Ural State Mining University 2000 - 2005 Since 2012 2021 2020
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://vakhromov-com.vercel.app/media/posts/1/NFT-Cover.png" alt="" width="600" height="400" sizes="(max-width: 48em) 100vw, 768px" srcset="https://vakhromov-com.vercel.app/media/posts/1/responsive/NFT-Cover-xs.png 300w ,https://vakhromov-com.vercel.app/media/posts/1/responsive/NFT-Cover-sm.png 480w ,https://vakhromov-com.vercel.app/media/posts/1/responsive/NFT-Cover-md.png 768w ,https://vakhromov-com.vercel.app/media/posts/1/responsive/NFT-Cover-lg.png 1024w ,https://vakhromov-com.vercel.app/media/posts/1/responsive/NFT-Cover-xl.png 1360w ,https://vakhromov-com.vercel.app/media/posts/1/responsive/NFT-Cover-2xl.png 1600w"></figure>
+                    <p><img src="https://vakhromov-com.vercel.app/media/posts/2/education-image.png" class="type:primaryImage" alt="" /></p>
+                <section class="education-section">
+<div class="media-container" style="display: flex; align-items: center; margin-bottom: 20px;">
+<div>
+<p> </p>
+</div>
+</div>
+<div class="media-container" style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="flex: 0 0 19%; margin-right: 20px;"><figure class="post__image"><img loading="lazy"  src="https://vakhromov-com.vercel.app/media/posts/2/Ryerson-logo.png" alt="Ryerson University" width="180" height="180" sizes="(max-width: 48em) 100vw, 768px" srcset="https://vakhromov-com.vercel.app/media/posts/2/responsive/Ryerson-logo-xs.png 300w ,https://vakhromov-com.vercel.app/media/posts/2/responsive/Ryerson-logo-sm.png 480w ,https://vakhromov-com.vercel.app/media/posts/2/responsive/Ryerson-logo-md.png 768w ,https://vakhromov-com.vercel.app/media/posts/2/responsive/Ryerson-logo-lg.png 1024w ,https://vakhromov-com.vercel.app/media/posts/2/responsive/Ryerson-logo-xl.png 1360w ,https://vakhromov-com.vercel.app/media/posts/2/responsive/Ryerson-logo-2xl.png 1600w"></figure></div>
+<div>
+<h3 style="margin: 0;">Masters, International Economics and Finance</h3>
+<p>Ryerson University, Canada<br>2006 - 2008</p>
+</div>
+</div>
+<div class="media-container" style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="flex: 0 0 19%; margin-right: 20px;"><figure class="post__image"><img loading="lazy"  src="https://vakhromov-com.vercel.app/media/posts/2/FHD.png" alt="Fachhochschule Deggendorf" width="200" height="200" sizes="(max-width: 48em) 100vw, 768px" srcset="https://vakhromov-com.vercel.app/media/posts/2/responsive/FHD-xs.png 300w ,https://vakhromov-com.vercel.app/media/posts/2/responsive/FHD-sm.png 480w ,https://vakhromov-com.vercel.app/media/posts/2/responsive/FHD-md.png 768w ,https://vakhromov-com.vercel.app/media/posts/2/responsive/FHD-lg.png 1024w ,https://vakhromov-com.vercel.app/media/posts/2/responsive/FHD-xl.png 1360w ,https://vakhromov-com.vercel.app/media/posts/2/responsive/FHD-2xl.png 1600w"></figure></div>
+<div>
+<h3 style="margin: 0;">International Business Administration</h3>
+<p>Deggendorf Institute of Technology<br>2001 - 2022</p>
+</div>
+</div>
+<div class="media-container" style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="flex: 0 0 19%; margin-right: 20px;"><figure class="post__image"><img loading="lazy"  src="https://vakhromov-com.vercel.app/media/posts/2/UGGA.jpg" alt="Ural State Mining University Logo" width="200" height="200" sizes="(max-width: 48em) 100vw, 768px" srcset="https://vakhromov-com.vercel.app/media/posts/2/responsive/UGGA-xs.jpg 300w ,https://vakhromov-com.vercel.app/media/posts/2/responsive/UGGA-sm.jpg 480w ,https://vakhromov-com.vercel.app/media/posts/2/responsive/UGGA-md.jpg 768w ,https://vakhromov-com.vercel.app/media/posts/2/responsive/UGGA-lg.jpg 1024w ,https://vakhromov-com.vercel.app/media/posts/2/responsive/UGGA-xl.jpg 1360w ,https://vakhromov-com.vercel.app/media/posts/2/responsive/UGGA-2xl.jpg 1600w"></figure></div>
+<div>
+<h3 style="margin: 0;">Bachelor, Business Administration and Management</h3>
+<p>Ural State Mining University<br>2000 - 2005</p>
+</div>
+</div>
+<hr>
+<h2>Certifications</h2>
+<p> </p>
+<div class="media-container" style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="flex: 0 0 19%; margin-right: 20px;"><figure class="post__image"><img loading="lazy"  src="https://vakhromov-com.vercel.app/media/posts/2/CFA-1.jpg" alt="CFA Logo" width="225" height="225" sizes="(max-width: 48em) 100vw, 768px" srcset="https://vakhromov-com.vercel.app/media/posts/2/responsive/CFA-1-xs.jpg 300w ,https://vakhromov-com.vercel.app/media/posts/2/responsive/CFA-1-sm.jpg 480w ,https://vakhromov-com.vercel.app/media/posts/2/responsive/CFA-1-md.jpg 768w ,https://vakhromov-com.vercel.app/media/posts/2/responsive/CFA-1-lg.jpg 1024w ,https://vakhromov-com.vercel.app/media/posts/2/responsive/CFA-1-xl.jpg 1360w ,https://vakhromov-com.vercel.app/media/posts/2/responsive/CFA-1-2xl.jpg 1600w"></figure></div>
+<div>
+<h3 style="margin: 0;">Chartered Financial Analyst</h3>
+<p>Since 2012</p>
+</div>
+</div>
+<div class="media-container" style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="flex: 0 0 19%; margin-right: 20px;"><figure class="post__image"><img loading="lazy"  src="https://vakhromov-com.vercel.app/media/posts/2/cams.jpg" alt="CAMS Logo" width="900" height="900" sizes="(max-width: 48em) 100vw, 768px" srcset="https://vakhromov-com.vercel.app/media/posts/2/responsive/cams-xs.jpg 300w ,https://vakhromov-com.vercel.app/media/posts/2/responsive/cams-sm.jpg 480w ,https://vakhromov-com.vercel.app/media/posts/2/responsive/cams-md.jpg 768w ,https://vakhromov-com.vercel.app/media/posts/2/responsive/cams-lg.jpg 1024w ,https://vakhromov-com.vercel.app/media/posts/2/responsive/cams-xl.jpg 1360w ,https://vakhromov-com.vercel.app/media/posts/2/responsive/cams-2xl.jpg 1600w"></figure></div>
+<div>
+<h3 style="margin: 0;">Certified Anti-Money Laundering Specialist (CAMLS)</h3>
+<p>2021</p>
+</div>
+</div>
+<div class="media-container" style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="flex: 0 0 19%; margin-right: 20px;"><figure class="post__image"><img loading="lazy"  src="https://vakhromov-com.vercel.app/media/posts/2/IBM.png" alt="IBM Logo" width="225" height="225" sizes="(max-width: 48em) 100vw, 768px" srcset="https://vakhromov-com.vercel.app/media/posts/2/responsive/IBM-xs.png 300w ,https://vakhromov-com.vercel.app/media/posts/2/responsive/IBM-sm.png 480w ,https://vakhromov-com.vercel.app/media/posts/2/responsive/IBM-md.png 768w ,https://vakhromov-com.vercel.app/media/posts/2/responsive/IBM-lg.png 1024w ,https://vakhromov-com.vercel.app/media/posts/2/responsive/IBM-xl.png 1360w ,https://vakhromov-com.vercel.app/media/posts/2/responsive/IBM-2xl.png 1600w"></figure></div>
+<div>
+<h3 style="margin: 0;">IBM Data Science Professional Certification</h3>
+<p>2020</p>
+</div>
+</div>
+</section>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>NFT – Sound Through Image</title>
+        <author>
+            <name>Oleg Vakhromov, CFA, CAMS</name>
+        </author>
+        <link href="https://vakhromov-com.vercel.app/nft-sound-through-image.html"/>
+        <id>https://vakhromov-com.vercel.app/nft-sound-through-image.html</id>
+        <media:content url="https://vakhromov-com.vercel.app/media/posts/1/NFT-Cover-2.png" medium="image" />
+            <category term="Python"/>
+            <category term="Crypto"/>
+
+        <updated>2026-02-13T18:56:13+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://vakhromov-com.vercel.app/media/posts/1/NFT-Cover-2.png" alt="" />
+                    import python n nhvhv A heartbeat and silence, yin and yang, light and darkness, life and death—the essence of life lies in the eternal struggle of opposites. “Heart” and “Beat” are two sides of the same coin. By themselves, they are nothing more than two&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://vakhromov-com.vercel.app/media/posts/1/NFT-Cover-2.png" class="type:primaryImage" alt="" /></p>
+                <p><code>import python</code></p>
+<hr>
+<p class="dropcap msg msg--highlight  post__lead"><code>n nhvhv</code></p>
+<hr>
+<p><code></code></p>
+<hr>
+<p><code></code></p>
+<p> </p>
+<blockquote>
 <p>A heartbeat and silence, yin and yang, light and darkness, life and death—the essence of life lies in the eternal struggle of opposites. “Heart” and “Beat” are two sides of the same coin. By themselves, they are nothing more than two images, indistinguishable from trillions of others. But together, they unlock the sound of a beating heart hidden within.</p>
-<p>In my recent project, I explored the fascinating intersection of sound and image by creating a unique puzzle—a visual and auditory artifact that could only be unlocked through the pairing of a matching image. To add a layer of digital innovation, I realized this concept as a pair of NFTs (Non-Fungible Tokens).</p>
+</blockquote>
+<p class="post__lead msg msg--highlight ">In my recent project, I explored the fascinating intersection of sound and image by creating a unique puzzle—a visual and auditory artifact that could only be unlocked through the pairing of a matching image. To add a layer of digital innovation, I realized this concept as a pair of NFTs (Non-Fungible Tokens).</p>
 <h4 class="wp-block-heading">What Are NFTs?</h4>
-<p>NFTs are unique digital assets stored on a blockchain, representing ownership of a specific item, such as art, music, or collectibles. Unlike cryptocurrencies like Bitcoin, NFTs are non-fungible, meaning each token is distinct and cannot be exchanged on a one-to-one basis. Their uniqueness and traceable ownership make NFTs a revolutionary medium for creators and collectors.</p>
+<p>NFTs are unique digital assets stored on a blockc</p>
+<pre class="language-markup"><code>import numpy as np</code></pre>
+<p>hain, representing ownership of a specific item, such as art, music, or collectibles. Unlike cryptocurrencies like Bitcoin, NFTs are non-fungible, meaning each token is distinct and cannot be exchanged on a one-to-one basis. Their uniqueness and traceable ownership make NFTs a revolutionary medium for creators and collectors.</p>
             ]]>
         </content>
     </entry>
