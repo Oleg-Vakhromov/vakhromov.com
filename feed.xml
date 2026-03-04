@@ -3,12 +3,158 @@
     <title>vakhromov.com</title>
     <link href="https://vakhromov-com.vercel.app/feed.xml" rel="self" />
     <link href="https://vakhromov-com.vercel.app" />
-    <updated>2026-02-14T19:53:05+02:00</updated>
+    <updated>2026-03-04T18:53:30+02:00</updated>
     <author>
         <name>Oleg Vakhromov, CFA, CAMS</name>
     </author>
     <id>https://vakhromov-com.vercel.app</id>
 
+    <entry>
+        <title>Professional Experience</title>
+        <author>
+            <name>Oleg Vakhromov, CFA, CAMS</name>
+        </author>
+        <link href="https://vakhromov-com.vercel.app/professional-experience.html"/>
+        <id>https://vakhromov-com.vercel.app/professional-experience.html</id>
+        <media:content url="https://vakhromov-com.vercel.app/media/posts/3/featured_image.png" medium="image" />
+
+        <updated>2026-03-04T18:31:00+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://vakhromov-com.vercel.app/media/posts/3/featured_image.png" alt="" />
+                    Experienced compliance and risk manager with deep knowledge of global regulatory requirements and hands-on experience developing and implementing risk policies for a multinational publicly traded FinTech company. CAMS-certified AML/CTF specialist with extensive onboarding due diligence and ongoing monitoring experience across complex commercial clients. Chartered Financial&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://vakhromov-com.vercel.app/media/posts/3/featured_image.png" class="type:primaryImage" alt="" /></p>
+                <section>
+<p>Experienced compliance and risk manager with deep knowledge of global regulatory requirements and hands-on experience developing and implementing risk policies for a multinational publicly traded FinTech company.</p>
+<p>CAMS-certified AML/CTF specialist with extensive onboarding due diligence and ongoing monitoring experience across complex commercial clients.</p>
+<p>Chartered Financial Analyst with 14 years of expertise in research and valuation of multinational private and publicly traded companies across all credit risk profiles and sectors.</p>
+<p><strong>Languages:</strong> Native English and Russian</p>
+</section>
+<hr>
+<section class="experience">
+<div class="job">
+<div class="job-header"><figure class="post__image"><img loading="lazy"  src="https://vakhromov-com.vercel.app/media/posts/3/fido_money_lending_ltd_logo.jpeg" alt="" width="100" height="100" sizes="(max-width: 48em) 100vw, 768px" srcset="https://vakhromov-com.vercel.app/media/posts/3/responsive/fido_money_lending_ltd_logo-xs.jpeg 300w ,https://vakhromov-com.vercel.app/media/posts/3/responsive/fido_money_lending_ltd_logo-sm.jpeg 480w ,https://vakhromov-com.vercel.app/media/posts/3/responsive/fido_money_lending_ltd_logo-md.jpeg 768w ,https://vakhromov-com.vercel.app/media/posts/3/responsive/fido_money_lending_ltd_logo-lg.jpeg 1024w ,https://vakhromov-com.vercel.app/media/posts/3/responsive/fido_money_lending_ltd_logo-xl.jpeg 1360w ,https://vakhromov-com.vercel.app/media/posts/3/responsive/fido_money_lending_ltd_logo-2xl.jpeg 1600w"></figure>
+<div>
+<h3>Risk Monitoring Manager</h3>
+<p><strong>Fido</strong><br>Jan 2025 – Present</p>
+</div>
+</div>
+<p>Fido’s platform and machine learning risk models make instant credit decisions for customers with no financial track record while reducing operational costs.</p>
+<ul>
+<li>Assessed credit risk exposure across financial products and jurisdictions; identified emerging risks and implemented remediation strategies.</li>
+<li>Collaborated with data scientists to improve credit risk models using SQL and Python.</li>
+<li>Integrated risk insights into product design in partnership with tech and finance teams.</li>
+</ul>
+</div>
+<hr>
+<div class="job">
+<div class="job-header"><figure class="post__image"><img loading="lazy"  src="https://vakhromov-com.vercel.app/media/posts/3/Receive.png" alt="" width="151" height="100" sizes="(max-width: 48em) 100vw, 768px" srcset="https://vakhromov-com.vercel.app/media/posts/3/responsive/Receive-xs.png 300w ,https://vakhromov-com.vercel.app/media/posts/3/responsive/Receive-sm.png 480w ,https://vakhromov-com.vercel.app/media/posts/3/responsive/Receive-md.png 768w ,https://vakhromov-com.vercel.app/media/posts/3/responsive/Receive-lg.png 1024w ,https://vakhromov-com.vercel.app/media/posts/3/responsive/Receive-xl.png 1360w ,https://vakhromov-com.vercel.app/media/posts/3/responsive/Receive-2xl.png 1600w"></figure>
+<div>
+<h3>Head of Risk and Product</h3>
+<p><strong>Receive Corp.</strong><br>Jan 2024 – Jan 2025</p>
+</div>
+</div>
+<p>Receive is an Earned Revenue Access company for SMEs, backed by leading venture capital firms.</p>
+<ul>
+<li>Built and led fraud and credit underwriting functions.</li>
+<li>Developed automated underwriting algorithms reducing manual processing time by 95%.</li>
+<li>Defined product strategy and launched daily cash flow forecasting tools.</li>
+</ul>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://vakhromov-com.vercel.app/media/posts/3/gallery/receive_recommendation-2.png" data-size="567x567"><img loading="lazy" src="https://vakhromov-com.vercel.app/media/posts/3/gallery/receive_recommendation-2-thumbnail.png" alt="" width="567" height="567"></a></figure>
+</div></div>
+</div>
+<hr>
+<div class="job">
+<div class="job-header"><figure class="post__image"><img loading="lazy"  src="https://vakhromov-com.vercel.app/media/posts/3/splitit-large.jpg" alt="" width="151" height="100" sizes="(max-width: 48em) 100vw, 768px" srcset="https://vakhromov-com.vercel.app/media/posts/3/responsive/splitit-large-xs.jpg 300w ,https://vakhromov-com.vercel.app/media/posts/3/responsive/splitit-large-sm.jpg 480w ,https://vakhromov-com.vercel.app/media/posts/3/responsive/splitit-large-md.jpg 768w ,https://vakhromov-com.vercel.app/media/posts/3/responsive/splitit-large-lg.jpg 1024w ,https://vakhromov-com.vercel.app/media/posts/3/responsive/splitit-large-xl.jpg 1360w ,https://vakhromov-com.vercel.app/media/posts/3/responsive/splitit-large-2xl.jpg 1600w"></figure>
+<div>
+<h3>Head of Underwriting and Policy</h3>
+<p><strong>Splitit Inc. (ASX:SPT)</strong><br>Jul 2020 – Dec 2023</p>
+</div>
+</div>
+<h4>Risk Management</h4>
+<ul>
+<li>Credit risk underwriting and monitoring policy development.</li>
+<li>Development and maintenance of internal credit risk scorecards.</li>
+<li>Structuring B2B, B2C and B2B2C merchant deals.</li>
+<li>Ongoing fraud and transaction monitoring.</li>
+</ul>
+<h4>AML / CTF Compliance</h4>
+<ul>
+<li>AML/CTF program development and internal audit.</li>
+<li>Onboarding due diligence policies and procedures.</li>
+<li>Monitoring funded merchants across North America and Europe.</li>
+</ul>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://vakhromov-com.vercel.app/media/posts/3/gallery/splitit_recommendation_1.png" data-size="655x378"><img loading="lazy" src="https://vakhromov-com.vercel.app/media/posts/3/gallery/splitit_recommendation_1-thumbnail.png" alt="" width="655" height="378"></a></figure>
+<figure class="gallery__item"><a href="https://vakhromov-com.vercel.app/media/posts/3/gallery/splitit_recommendation_2.png" data-size="652x467"><img loading="lazy" src="https://vakhromov-com.vercel.app/media/posts/3/gallery/splitit_recommendation_2-thumbnail.png" alt="" width="652" height="467"></a></figure>
+<figure class="gallery__item"><a href="https://vakhromov-com.vercel.app/media/posts/3/gallery/splitit_recommendation_3.png" data-size="654x287"><img loading="lazy" src="https://vakhromov-com.vercel.app/media/posts/3/gallery/splitit_recommendation_3-thumbnail.png" alt="" width="654" height="287"></a></figure>
+<figure class="gallery__item"><a href="https://vakhromov-com.vercel.app/media/posts/3/gallery/splitit_recommendation_4.png" data-size="656x350"><img loading="lazy" src="https://vakhromov-com.vercel.app/media/posts/3/gallery/splitit_recommendation_4-thumbnail.png" alt="" width="656" height="350"></a></figure>
+<figure class="gallery__item"><a href="https://vakhromov-com.vercel.app/media/posts/3/gallery/CLA.png" data-size="739x694"><img loading="lazy" src="https://vakhromov-com.vercel.app/media/posts/3/gallery/CLA-thumbnail.png" alt="" width="739" height="694"></a></figure>
+</div></div>
+</div>
+<hr>
+<div class="job">
+<div class="job-header"><figure class="post__image"><img loading="lazy"  src="https://vakhromov-com.vercel.app/media/posts/3/CaringEye.jpg" alt="" width="139" height="100" sizes="(max-width: 48em) 100vw, 768px" srcset="https://vakhromov-com.vercel.app/media/posts/3/responsive/CaringEye-xs.jpg 300w ,https://vakhromov-com.vercel.app/media/posts/3/responsive/CaringEye-sm.jpg 480w ,https://vakhromov-com.vercel.app/media/posts/3/responsive/CaringEye-md.jpg 768w ,https://vakhromov-com.vercel.app/media/posts/3/responsive/CaringEye-lg.jpg 1024w ,https://vakhromov-com.vercel.app/media/posts/3/responsive/CaringEye-xl.jpg 1360w ,https://vakhromov-com.vercel.app/media/posts/3/responsive/CaringEye-2xl.jpg 1600w"></figure>
+<div>
+<h3>Product Manager &amp; Co-Founder</h3>
+<p><strong>Caring Eye Inc.</strong><br>Sep 2018 – Mar 2020</p>
+</div>
+</div>
+<p>Ranked among Israel’s Top 9 startups for parents by Calcalistech. Developed a smart video baby monitor using rPPG technology.</p>
+<ul>
+<li>Conducted market research and user interviews.</li>
+<li>Defined product roadmap and prioritized features.</li>
+<li>Presented to investors and executive stakeholders.</li>
+</ul>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://vakhromov-com.vercel.app/media/posts/3/gallery/caringeye_recommendation.png" data-size="655x556"><img loading="lazy" src="https://vakhromov-com.vercel.app/media/posts/3/gallery/caringeye_recommendation-thumbnail.png" alt="" width="655" height="556"></a></figure>
+</div></div>
+</div>
+<hr>
+<div class="job">
+<div class="job-header"><figure class="post__image"><img loading="lazy"  src="https://vakhromov-com.vercel.app/media/posts/3/RBC-small.jpg" alt="" width="150" height="100" sizes="(max-width: 48em) 100vw, 768px" srcset="https://vakhromov-com.vercel.app/media/posts/3/responsive/RBC-small-xs.jpg 300w ,https://vakhromov-com.vercel.app/media/posts/3/responsive/RBC-small-sm.jpg 480w ,https://vakhromov-com.vercel.app/media/posts/3/responsive/RBC-small-md.jpg 768w ,https://vakhromov-com.vercel.app/media/posts/3/responsive/RBC-small-lg.jpg 1024w ,https://vakhromov-com.vercel.app/media/posts/3/responsive/RBC-small-xl.jpg 1360w ,https://vakhromov-com.vercel.app/media/posts/3/responsive/RBC-small-2xl.jpg 1600w"></figure>
+<div>
+<h3>Commercial Credit Portfolio Manager – Mining</h3>
+<p><strong>Royal Bank of Canada</strong><br>May 2016 – Sep 2019</p>
+</div>
+</div>
+<ul>
+<li>Managed mining portfolio to prevent loan impairments.</li>
+<li>Structured complex credit facilities.</li>
+<li>Expanded key stakeholder relationships and exceeded targets.</li>
+</ul>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://vakhromov-com.vercel.app/media/posts/3/gallery/rbc_recommendation_1.png" data-size="655x400"><img loading="lazy" src="https://vakhromov-com.vercel.app/media/posts/3/gallery/rbc_recommendation_1-thumbnail.png" alt="" width="655" height="400"></a></figure>
+<figure class="gallery__item"><a href="https://vakhromov-com.vercel.app/media/posts/3/gallery/rbc_recommendation_2.png" data-size="650x531"><img loading="lazy" src="https://vakhromov-com.vercel.app/media/posts/3/gallery/rbc_recommendation_2-thumbnail.png" alt="" width="650" height="531"></a></figure>
+</div></div>
+</div>
+<hr>
+<div class="job">
+<div class="job-header"><figure class="post__image"><img loading="lazy"  src="https://vakhromov-com.vercel.app/media/posts/3/HSBC-small.jpg" alt="" width="152" height="100" sizes="(max-width: 48em) 100vw, 768px" srcset="https://vakhromov-com.vercel.app/media/posts/3/responsive/HSBC-small-xs.jpg 300w ,https://vakhromov-com.vercel.app/media/posts/3/responsive/HSBC-small-sm.jpg 480w ,https://vakhromov-com.vercel.app/media/posts/3/responsive/HSBC-small-md.jpg 768w ,https://vakhromov-com.vercel.app/media/posts/3/responsive/HSBC-small-lg.jpg 1024w ,https://vakhromov-com.vercel.app/media/posts/3/responsive/HSBC-small-xl.jpg 1360w ,https://vakhromov-com.vercel.app/media/posts/3/responsive/HSBC-small-2xl.jpg 1600w"></figure>
+<div>
+<h3>Commercial Credit Portfolio Manager – Supply Chain</h3>
+<p><strong>HSBC Bank Canada</strong><br>June 2008 – May 2016</p>
+</div>
+</div>
+<ul>
+<li>Managed large credit portfolio across risk profiles.</li>
+<li>Recognized in HSBC global training materials for KYC/AML excellence.</li>
+<li>Proposed optimal financing solutions for acquisition and expansion plans.</li>
+</ul>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://vakhromov-com.vercel.app/media/posts/3/gallery/hsbc_recommendation_1.png" data-size="656x525"><img loading="lazy" src="https://vakhromov-com.vercel.app/media/posts/3/gallery/hsbc_recommendation_1-thumbnail.png" alt="" width="656" height="525"></a></figure>
+<figure class="gallery__item"><a href="https://vakhromov-com.vercel.app/media/posts/3/gallery/hsbc_recommendation_2.png" data-size="654x495"><img loading="lazy" src="https://vakhromov-com.vercel.app/media/posts/3/gallery/hsbc_recommendation_2-thumbnail.png" alt="" width="654" height="495"></a></figure>
+</div></div>
+</div>
+</section>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Education</title>
         <author>
